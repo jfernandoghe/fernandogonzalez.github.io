@@ -33,7 +33,7 @@ Thesis: _“Design and implementation of a smart band prototype for the gestural
 Tutor: _Ricardo Perez-Alcocer_ – [rrperez@citedi.mx](mailto:rrperez@citedi.mx)
 
 ## Publications
-- Jimenez, Francisco, Gonzalez-Herrera, Fernando, and Lara-Alvarez, Carlos, _“A  Coordinated  Wilderness  Search  and  Rescue  Technique  Inspired  by  Bacterial  For-aging  Behavior”_,  2018  IEEE  International  Conference  on  Robotics  and  Biomimetics(ROBIO), Kuala Lumpur, 2018.  [0.1109/ROBIO.2018.8665267](https://ieeexplore.ieee.org/document/8665267) _Accepted_
+- Jimenez, Francisco, Gonzalez-Herrera, Fernando, and Lara-Alvarez, Carlos, _“A  Coordinated  Wilderness  Search  and  Rescue  Technique  Inspired  by  Bacterial  For-aging  Behavior”_,  2018  IEEE  International  Conference  on  Robotics  and  Biomimetics (ROBIO), Kuala Lumpur, 2018.  [0.1109/ROBIO.2018.8665267](https://ieeexplore.ieee.org/document/8665267) _Accepted_
   
 - Gonzalez-Herrera,  Fernando  and  Lara-Alvarez,  Carlos, _“TTesting Robust Polynomial Models for Eye Tracker Calibration”_,  Behavior Research Methods, 2019. _ Under correction_
   
