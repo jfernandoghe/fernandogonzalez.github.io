@@ -13,8 +13,8 @@ LinkedIn: [www.linkedin.com/jfernandoghe](www.linkedin.com/jfernandoghe)<br/>
 [CV](https://drive.google.com/open?id=1Uh05Ehnvhy4zC3AWNeEpr8_GF9_PJSnG)<br/>
 
 ## Sections
-[Projects](./projects.md)
-[Extra info](./extra.md)
+[Projects](./projects.md) <br/>
+[Extra info](./extra.md) <br/>
 
 ---
 

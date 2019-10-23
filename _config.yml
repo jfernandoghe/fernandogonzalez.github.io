@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 title: Fernando Gonzalez-Herrera
 description: MSc - Software Engineering <br/> BSc - Mechatronic <br\>  
 logo: /img/2.png
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
