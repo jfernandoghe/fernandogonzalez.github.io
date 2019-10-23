@@ -1,26 +1,24 @@
-scholarships,
-academic positions# Extra information
 
 ## Profesional experience
 
- - 2019 to date **Research asistant** _Center for Mathematical Research_ Data analysis and academic paper writting.  <br/>
- - 2019 to date **Consultant Freelancer** Consultancy and development of multidisciplinary projects focused on computer aided design, hardware prototyping, programming and
+ - (2019 to date) **Research asistant** _Center for Mathematical Research_ Data analysis and academic paper writting.  <br/>
+ - (2019 to date) **Consultant Freelancer** Consultancy and development of multidisciplinary projects focused on computer aided design, hardware prototyping, programming and
 software development; in both industry and academic fields.  <br/>
- - 2015 – 2017 **Engineer** _Aptiv Packard Electric_ Delivery route, warehouse space (delivery, supermarket and shipping) and workload calculation and optimization. Pre-inventory analysis and balance. <br/>
- - 2015 **Engineer** _State Health Services_ BSc internship. Publication of \Internal maintenance guide for tele-presence health robot". Operation of tele-presence health robots, undertake and schedule maintenance
+ - (2015 – 2017) **Engineer** _Aptiv Packard Electric_ Delivery route, warehouse space (delivery, supermarket and shipping) and workload calculation and optimization. Pre-inventory analysis and balance. <br/>
+ - (2015) **Engineer** _State Health Services_ BSc internship. Publication of \Internal maintenance guide for tele-presence health robot". Operation of tele-presence health robots, undertake and schedule maintenance
 and guide health practitioners into robot add-ons.  <br/>
 
 
 ## Talks
 
- - 2019 _“Statistical model selectors based on Parsimony Principle"_, Mechatronics Week - IPN  <br/>
- - 2018 _“A Coordinated Wilderness Search and Rescue Technique Inspired by Bacterial Foraging Behavior"_, 2018 IEEE International Conference 
+ - (2019) _Statistical model selectors based on Parsimony Principle_, Mechatronics Week - IPN  <br/>
+ - (2018) _A Coordinated Wilderness Search and Rescue Technique Inspired by Bacterial Foraging Behavior_, 2018 IEEE International Conference 
 on Robotics and Biomimetics (ROBIO), Kuala Lumpur, December  <br/>
- - 2018 _“Computational geometric approach to eye movement comparison"_, Human-Centered Computing Meet Up - CIMAT  <br/>
+ - (2018) _Computational geometric approach to eye movement comparison_, Human-Centered Computing Meet Up - CIMAT  <br/>
 
 ## Workshops and Seminars
 
- - 2019 _"Python, Reinforcement Learning and Markov decision process"_. Mechatronics Week - IPN
+ - (2019) _Python, Reinforcement Learning and Markov decision process_. Mechatronics Week - IPN
 
 ## Awards scholarships, academic positions
 
