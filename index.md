@@ -13,14 +13,8 @@ LinkedIn: [www.linkedin.com/jfernandoghe](www.linkedin.com/jfernandoghe)<br/>
 [CV](https://drive.google.com/open?id=1Uh05Ehnvhy4zC3AWNeEpr8_GF9_PJSnG)<br/>
 
 ## Sections
-[Projects](./projects.html).
-
-
-## Presentation
-
-Fernando is a MSc on Software Engineering with experience on different areas rewarding algorithm design and implementation; with strong mathematical, statistics and probabilistic foundations. <br/><br/>
-He has been able to defend orally his work on international conferences and research stays, being able to negotiate the terms and conditions of software and algorithm development of machine learning and data analysis solutions.<br/><br/>
-His focus is bringing solutions to problems relating humans and their interactivity with machines, robots, computers and general purpose hardware devices using computer science, ML and AI. 
+###[Projects](./projects.html)
+[Presen]
 
 ## Education
 
