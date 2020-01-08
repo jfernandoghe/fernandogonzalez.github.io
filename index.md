@@ -11,6 +11,7 @@ LinkedIn: [www.linkedin.com/jfernandoghe](www.linkedin.com/jfernandoghe)<br/>
 ## Downloads
 [Resume](https://drive.google.com/open?id=1ktlQNcGXXsIPKtaYB3GNnrZVRXeuzi6y)<br/>
 [CV](https://drive.google.com/open?id=1Uh05Ehnvhy4zC3AWNeEpr8_GF9_PJSnG)<br/>
+[Presentations](./ppt.md) <br/>
 
 ## Sections
 [Projects](./projects.md) <br/>
