@@ -23,7 +23,7 @@ LinkedIn: [www.linkedin.com/jfernandoghe](www.linkedin.com/jfernandoghe)<br/>
 
 -**UNISTRA - KU Leuven** _2020-2023_ (Dual joint PhD program) – 
 Project: _“Automatic endoscope repositioning with respect to the surgical task”_ <br/>
-Equipe Automatique Vision et Robotique (AVR) - **ICube** at _UNISTRA_ as the hosting institution; under the supervision of Prof. _Michel de Mathelin_ (_Benoit Rosa_ & _Florent Nageotte_)
+Equipe Automatique Vision et Robotique (AVR) - **ICube** at _UNISTRA_ as the hosting institution; under the supervision of Prof. _Michel de Mathelin_ (_Benoit Rosa_ & _Florent Nageotte_)<br/>
 Robot - Assisted Surgery Group, **KU Leuven** as the secondary host; under the supervision of Prof. _Joris De Schutter_ (_Emmanuel Vander Poorten_ & _Gianni Borghesan_)
 
 
