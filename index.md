@@ -21,6 +21,12 @@ LinkedIn: [www.linkedin.com/jfernandoghe](www.linkedin.com/jfernandoghe)<br/>
 
 ## Education
 
+-**UNISTRA - KU Leuven** _2020-2023_ (Dual joint PhD program) – 
+Project: _“Automatic endoscope repositioning with respect to the surgical task”_ <br/>
+Equipe Automatique Vision et Robotique (AVR) - **ICube** at _UNISTRA_ as the hosting institution; under the supervision of Prof. _Michel de Mathelin_ (_Benoit Rosa_ & _Florent Nageotte_)
+Robot - Assisted Surgery Group, **KU Leuven** as the secondary host; under the supervision of Prof. _Joris De Schutter_ (_Emmanuel Vander Poorten_ & _Gianni Borghesan_)
+
+
 -**University of Glasgow** _April-August 2019_ (Multimodal Interaction Group) – Algorithm design and development<br/>
 Project: _“Data analysis of sensor (accelerometer, giroscope and eye tracking) to measure cognitive load using robust metrics for different tasks”_ - Use of Python for development of a technique to processes raw sensor data and es-timate cognitive load using 4 metrics.  Data cleaning, outlier detection and principal component analysis was applied.<br/>
 Tutor: _Stephen Brewster_ – [stephen.brewster@glasgow.ac.uk](mailto:stephen.brewster@glasgow.ac.uk)
