@@ -32,7 +32,7 @@ Project: _“Data analysis of sensor (accelerometer, giroscope and eye tracking)
 Tutor: _Stephen Brewster_ – [stephen.brewster@glasgow.ac.uk](mailto:stephen.brewster@glasgow.ac.uk)
 
 -**Center of Mathematical Research (CIMAT)** _2017-2019_ (Human Centered Computing Lab) – MSc Software Engineering<br/>
-Thesis: _“Robust comparison of eye made scanpaths using computational geometry and n-grams”_ - Use of Python and MATLAB to answer problems related human-computer/robot in-teraction via machine learning, statistical inference, model selection techniques, stochas-tic models, bio-inspired algorithms, heuristics.<br/>
+Thesis: _“Eye Tracker Calibration Models and Robust Comparison of Scanpaths”_ - Use of Python and MATLAB to answer problems related human-computer/robot in-teraction via machine learning, statistical inference, model selection techniques, stochastic models, bio-inspired algorithms, heuristics.<br/>
 Tutor: _Carlos Lara-Alvarez_ – [carlos.lara@cimat.mx](mailto:carlos.lara@cimat.mx)
 
 -**National Polytechnic Institute (IPN)** _2010-2015_ (Robotics & intelligent systems) – BSc Mechatronics<br/>
