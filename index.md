@@ -1,8 +1,9 @@
 # About Me
 
 ## Contact info
-Personal email: [jfernandoghe<code>@</code>gmail.com](mailto:jfernandoghe@gmail.com)<br/>
-Academic email: [jose.gonzalez<code>@</code>cimat.mx](mailto:jose.gonzalez@cimat.mx)<br/>
+Personal email: [jfernandoghe <code>@</code> gmail.com](mailto:jfernandoghe@gmail.com)<br/>
+Academic email: [gonzalezherrera <code>@</code> unistra.fr](mailto:jose.gonzalez@cimat.mx)<br/>
+Academic email: [gonzalezherrera <code>@</code> kuleuven.be](mailto:jose.gonzalez@cimat.mx)<br/>
 Repository: [www.github.com/jfernandoghe](www.github.com/jfernandoghe)<br/>
 ResearchGate: [jfernandoghe](https://www.researchgate.net/profile/Fernando_Gonzalez_Herrera)<br/>
 ORCID: [0000-0003-2312-2724](https://orcid.org/0000-0003-2312-2724)<br/>
